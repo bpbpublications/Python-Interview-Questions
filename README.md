@@ -1,2 +1,2 @@
-# Python-Interview-Guide
-Python Interview Guide, published by BPB Publications.
+# Python Interview Questions
+Python Interview Questions, published by BPB Publications.
